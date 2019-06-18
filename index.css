@@ -1,0 +1,44 @@
+body {
+  margin: auto;
+  padding: 50px;
+  color: antiquewhite;
+  background: #F0F0F0;
+}
+
+canvas {
+  background: white;
+}
+
+.board {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.btn_div {
+  background-color: rgb(216, 210, 223);
+  width: 300px;
+  height: 60px;
+  margin: auto;
+  line-height: 60px;
+  text-align: center;
+}
+
+button {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: rgb(42, 37, 32);
+  width: 100px;
+  height: 40px;
+  background-color: rgb(217, 115, 207)
+}
+
+.gameTitle {
+  width: 300px;
+  height: auto;
+  margin: auto;
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: rgb(191, 7, 106);
+}
